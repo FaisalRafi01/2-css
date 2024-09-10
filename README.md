@@ -29,14 +29,14 @@ If you'd like to run this project locally, clone the repo and then:
 
 ### Desktop Version (Min Width 1024px)
 
-![image](https://github.com/user-attachments/assets/492b2ae3-c857-4ac8-bd6f-4dab1a9454f4)
+![image](https://github.com/user-attachments/assets/942c58ae-b9dc-4ab8-b50c-b860f2cdae4c)
 
 ### Tablet Version (Min Width 768px)
 
-![image](https://github.com/user-attachments/assets/8b361b01-9304-4023-b6c9-6704140d1089)
+![image](https://github.com/user-attachments/assets/94b6756e-0d53-454d-9746-15cd69a2648d)
 
 ### Mobile Version
 
-![image](https://github.com/user-attachments/assets/cdb66b9b-00b5-4680-b33e-f0f5c6b604d2)
+![image](https://github.com/user-attachments/assets/64239274-655a-4791-b3a4-e625c4d0f4cf)
 
 Design can be seen [here](https://www.figma.com/design/CVvAXxU7qQQxUqu97Sw0q6/Tugas-PWEB-C?node-id=1-65&node-type=frame&t=LKmGUibhOxXkuoy1-0)
