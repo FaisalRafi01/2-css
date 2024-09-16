@@ -1,1 +1,85 @@
-/* TODO */
+body{
+  background-color: #F4F4F4;
+}
+h1{
+  text-align: center;
+}
+h4{
+  text-align: center;
+  padding: 0 0 8px 0;
+  font-family: Arial;
+}
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+.test{
+  grid-template: 10px;
+}
+.red{
+  padding: 10px 16px 11px 16px;
+  background-color: #E74C3C;
+}
+button{
+  border: 0;
+  border-radius: 5px;
+  color: #FFFFFF;
+}
+.green{
+  padding: 10px 16px 11px 16px;
+  background-color: #2ECC71;
+  color: #FFFFFF;
+}
+
+table{
+  width: 100%;
+  
+}
+
+thead{
+  text-align: center;
+  font-family: Arial;
+  font-size:18px;
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #4CAF50;
+}
+
+tbody{
+  text-align: center;
+  background-color: #FFFFFF;
+}
+.ITEMS {
+    border-radius: 10px;
+    flex: 1 1 300px;
+    max-width: 300px;
+    width: 100%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    border: solid 1px #DDDDDD;
+    height: auto;
+    text-align: center;
+    padding: 17px;
+    background-color: #FFFFFF;
+}
+
+.UI {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: sapce-between;
+    align-content: center;
+    gap: 12px;
+}
+
+@media (max-width: 800px) {
+    .UI {
+        justify-content: flex-start;  
+        }
+    
+    .ITEMS {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
